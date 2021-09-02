@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sanjanajayaweera Full-Stack Developer Laravel![400w](https://user-images.githubusercontent.com/87656119/131827959-e7cf4566-f37d-4d0a-8c25-252dd5025e3d.gif)
+- 👋 Hi, I’m @sanjanajayaweera Full-Stack Developer Laravel       
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...                                 
 
-    ~   	![400w](https://user-images.githubusercontent.com/87656119/131827959-e7cf4566-f37d-4d0a-8c25-252dd5025e3d.gif)
+    ![400w](https://user-images.githubusercontent.com/87656119/131827959-e7cf4566-f37d-4d0a-8c25-252dd5025e3d.gif)
 
 
 <!---
